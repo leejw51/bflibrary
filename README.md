@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <strong>🔮 Back to Future Library 🔮</strong>
+</p>
+
+<p align="center">
   <em>✨ A personal library of cheatsheets for AI books ✨<br/>
   Quick references distilled from the source books in this repo 🚀</em>
 </p>
